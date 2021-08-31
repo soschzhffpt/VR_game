@@ -1,0 +1,392 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'ko' Physical Memory: 16297 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/unity_file/final
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+14374
+Successfully changed project path to: C:/unity_file/final
+C:/unity_file/final
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/unity_file/final/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.5671
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003188 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.217 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1185 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.487300 ms (FindLiveObjects: 0.138700 ms CreateObjectMapping: 0.052400 ms MarkObjects: 1.233500 ms  DeleteObjects: 0.061800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/spaceship.cs
+  artifactKey: Guid(e5e8572f21c14684b8dc77a3b01e68f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/spaceship.cs using Guid(e5e8572f21c14684b8dc77a3b01e68f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e60f2416de1656f3e7d9acf7d4e3f6') in 0.059671 seconds
+  Import took 0.064074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.964139 seconds.
+  path: Assets/MapManager.cs
+  artifactKey: Guid(65723dac953b90641809cdb9634c3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapManager.cs using Guid(65723dac953b90641809cdb9634c3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b4cb5747a2cec27698bbe6afc070be') in 0.006342 seconds
+  Import took 0.008185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001566 seconds.
+  path: Assets/MapManager.cs
+  artifactKey: Guid(65723dac953b90641809cdb9634c3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapManager.cs using Guid(65723dac953b90641809cdb9634c3d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b4cb5747a2cec27698bbe6afc070be') in 0.003226 seconds
+  Import took 0.005215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.719188 seconds.
+  path: Assets/Bullet.cs
+  artifactKey: Guid(833a2a1839e2d9e4eb50246d25d46591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.cs using Guid(833a2a1839e2d9e4eb50246d25d46591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3087d40727921ed7b0115e9f5f2b5b27') in 0.007240 seconds
+  Import took 0.009175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Assets/Bullet.cs
+  artifactKey: Guid(833a2a1839e2d9e4eb50246d25d46591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullet.cs using Guid(833a2a1839e2d9e4eb50246d25d46591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3087d40727921ed7b0115e9f5f2b5b27') in 0.003122 seconds
+  Import took 0.005259 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1171 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.701700 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.040600 ms MarkObjects: 1.489400 ms  DeleteObjects: 0.015800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 9435.870928 seconds.
+  path: Assets/Vast Outer Space/Prefabs/alien character.prefab
+  artifactKey: Guid(f04c47f390966a842a69239c53062432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/alien character.prefab using Guid(f04c47f390966a842a69239c53062432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e6aad47cd4c1ca450caf661dd5e681') in 0.452546 seconds
+  Import took 0.456366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Vast Outer Space/Prefabs/map2.prefab
+  artifactKey: Guid(bbad3c6cc15b82c45bdfb68818b2e602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/map2.prefab using Guid(bbad3c6cc15b82c45bdfb68818b2e602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b912b266de314a75d6ccd8e1b002e26b') in 0.908130 seconds
+  Import took 0.911341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Vast Outer Space/Prefabs/alien character.prefab
+  artifactKey: Guid(f04c47f390966a842a69239c53062432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/alien character.prefab using Guid(f04c47f390966a842a69239c53062432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e6aad47cd4c1ca450caf661dd5e681') in 0.134261 seconds
+  Import took 0.137111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Vast Outer Space/Prefabs/map1.prefab
+  artifactKey: Guid(f00c08776c345454abd44bd4abe9fea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/map1.prefab using Guid(f00c08776c345454abd44bd4abe9fea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d3ece17264971fcfdc78284be96ab6') in 0.407786 seconds
+  Import took 0.410297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Vast Outer Space/Prefabs/Asteroid_A.prefab
+  artifactKey: Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/Asteroid_A.prefab using Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1317d48e94f21e64d908c8a9dc89b89b') in 0.143174 seconds
+  Import took 0.145817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Vast Outer Space/Prefabs/map3.prefab
+  artifactKey: Guid(a8a4329669793044cae65d92a3e27c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/map3.prefab using Guid(a8a4329669793044cae65d92a3e27c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cab0e6afe70ad669de5d24917a91cb6') in 0.334002 seconds
+  Import took 0.337181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Vast Outer Space/Prefabs/Asteroid_A.prefab
+  artifactKey: Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/Asteroid_A.prefab using Guid(ae4427e80dceffe47b5179ce000667cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1317d48e94f21e64d908c8a9dc89b89b') in 0.089230 seconds
+  Import took 0.091256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Vast Outer Space/Prefabs/map3.prefab
+  artifactKey: Guid(a8a4329669793044cae65d92a3e27c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vast Outer Space/Prefabs/map3.prefab using Guid(a8a4329669793044cae65d92a3e27c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cab0e6afe70ad669de5d24917a91cb6') in 0.309920 seconds
+  Import took 0.312494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.627525 seconds.
+  path: Assets/Oculus/VR
+  artifactKey: Guid(869fc009969608e4a9071237c584be0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR using Guid(869fc009969608e4a9071237c584be0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23bc01dd9bc44304165b97c9725a357') in 0.007638 seconds
+  Import took 0.013354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.378493 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRTracker.cs
+  artifactKey: Guid(7cb3c9d4cb0970e448c655096649e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRTracker.cs using Guid(7cb3c9d4cb0970e448c655096649e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a6c688b6be49ed6c4b0b043c4eec25') in 0.006003 seconds
+  Import took 0.008541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025781 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRTracker.cs
+  artifactKey: Guid(7cb3c9d4cb0970e448c655096649e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRTracker.cs using Guid(7cb3c9d4cb0970e448c655096649e814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a6c688b6be49ed6c4b0b043c4eec25') in 0.002949 seconds
+  Import took 0.005055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.396810 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRCameraRig.cs
+  artifactKey: Guid(df9f338034892c44ebb62d97894772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRCameraRig.cs using Guid(df9f338034892c44ebb62d97894772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1525821d1784d3816b1628fd30bb82') in 0.007829 seconds
+  Import took 0.013378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.609026 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRBoundary.cs
+  artifactKey: Guid(332b8e08854932543ba356eec601c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRBoundary.cs using Guid(332b8e08854932543ba356eec601c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e2dd14939da95d915dff07784534f3') in 0.006338 seconds
+  Import took 0.011773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001879 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRBoundary.cs
+  artifactKey: Guid(332b8e08854932543ba356eec601c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRBoundary.cs using Guid(332b8e08854932543ba356eec601c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e2dd14939da95d915dff07784534f3') in 0.002846 seconds
+  Import took 0.005193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.003087 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRCommon.cs
+  artifactKey: Guid(176f8d665b1d78048b1e87956698df6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRCommon.cs using Guid(176f8d665b1d78048b1e87956698df6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecf04b4242271b5d587e8c3ff77771a') in 0.006630 seconds
+  Import took 0.011950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRCommon.cs
+  artifactKey: Guid(176f8d665b1d78048b1e87956698df6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRCommon.cs using Guid(176f8d665b1d78048b1e87956698df6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecf04b4242271b5d587e8c3ff77771a') in 0.003669 seconds
+  Import took 0.005850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.647591 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRDebugHeadController.cs
+  artifactKey: Guid(563681618daa71b4c89f979b1fd7170b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRDebugHeadController.cs using Guid(563681618daa71b4c89f979b1fd7170b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c07e5631eb80f9e8ba73ef2b81fc9a') in 0.007315 seconds
+  Import took 0.012745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.854949 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRHaptics.cs
+  artifactKey: Guid(d3b22b858e27329498781f145fa42610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRHaptics.cs using Guid(d3b22b858e27329498781f145fa42610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b8286acba9308802c343a8b6e946e2') in 0.006153 seconds
+  Import took 0.011357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001096 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRHaptics.cs
+  artifactKey: Guid(d3b22b858e27329498781f145fa42610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRHaptics.cs using Guid(d3b22b858e27329498781f145fa42610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b8286acba9308802c343a8b6e946e2') in 0.003145 seconds
+  Import took 0.005441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.513517 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRDisplay.cs
+  artifactKey: Guid(bb365ebe8e821fc4e81e9dca9d704357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRDisplay.cs using Guid(bb365ebe8e821fc4e81e9dca9d704357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384ab83888ac17b8d6782c2e36b5dbad') in 0.005945 seconds
+  Import took 0.011225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001185 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRDisplay.cs
+  artifactKey: Guid(bb365ebe8e821fc4e81e9dca9d704357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRDisplay.cs using Guid(bb365ebe8e821fc4e81e9dca9d704357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384ab83888ac17b8d6782c2e36b5dbad') in 0.002771 seconds
+  Import took 0.005214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.825125 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRHapticsClip.cs
+  artifactKey: Guid(c123270a848515b458069b5242866451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRHapticsClip.cs using Guid(c123270a848515b458069b5242866451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32a1818ce5190c4729620336786b464') in 0.006411 seconds
+  Import took 0.010413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001261 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRHapticsClip.cs
+  artifactKey: Guid(c123270a848515b458069b5242866451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRHapticsClip.cs using Guid(c123270a848515b458069b5242866451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32a1818ce5190c4729620336786b464') in 0.002963 seconds
+  Import took 0.005183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.398843 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRInput.cs
+  artifactKey: Guid(d210caf8a50e1954c80690fa858572ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRInput.cs using Guid(d210caf8a50e1954c80690fa858572ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3500d8bf88895894e7b088a1841940') in 0.006094 seconds
+  Import took 0.009615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.239247 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRLayerAttribute.cs
+  artifactKey: Guid(701bfebb60063334f994e36546c103d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRLayerAttribute.cs using Guid(701bfebb60063334f994e36546c103d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9160ff7ee819ec51df15c4c1fdd13edf') in 0.006664 seconds
+  Import took 0.011833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.480210 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRLint.cs
+  artifactKey: Guid(f483b2ec6fdc344049771ed51034b4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRLint.cs using Guid(f483b2ec6fdc344049771ed51034b4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941d80e917e973977ca86a3eae26336d') in 0.006224 seconds
+  Import took 0.008153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003846 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRLint.cs
+  artifactKey: Guid(f483b2ec6fdc344049771ed51034b4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRLint.cs using Guid(f483b2ec6fdc344049771ed51034b4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941d80e917e973977ca86a3eae26336d') in 0.003043 seconds
+  Import took 0.004927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.196293 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRManager.cs
+  artifactKey: Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRManager.cs using Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51a43b91c1b904421a430ddc911ad21') in 0.006204 seconds
+  Import took 0.010044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001217 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRManager.cs
+  artifactKey: Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRManager.cs using Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51a43b91c1b904421a430ddc911ad21') in 0.003101 seconds
+  Import took 0.005118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.750105 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRMixedReality.cs
+  artifactKey: Guid(5daf6258e951ab84bb8b3e3b03386396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRMixedReality.cs using Guid(5daf6258e951ab84bb8b3e3b03386396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d588187103546b28c11fb85e167fa7f') in 0.006275 seconds
+  Import took 0.011226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.622120 seconds.
+  path: Assets/Oculus/VR/Scripts/OVROnCompleteListener.cs
+  artifactKey: Guid(8730118d7f00f9b47b09be73f7e91d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVROnCompleteListener.cs using Guid(8730118d7f00f9b47b09be73f7e91d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef12f33f2da7abf88f63197a09b71a64') in 0.005937 seconds
+  Import took 0.011121 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
